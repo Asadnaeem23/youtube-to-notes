@@ -16,10 +16,6 @@ Convert any YouTube video into comprehensive study notes + visual HTML guide usi
 - 🎨 **HTML Visual Guide** - Beautiful concept maps with CSS styling
 - 🆓 **100% FREE** - Uses free LLM APIs (Groq, OpenRouter)
 
-## 🎬 Demo
-
-![App Screenshot](screenshot.png)
-
 ## 🛠️ How It Works
 
 ```
@@ -50,7 +46,7 @@ Convert any YouTube video into comprehensive study notes + visual HTML guide usi
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/youtube-to-notes.git
+git clone https://github.com/Asadnaeem23/youtube-to-notes.git
 cd youtube-to-notes
 ```
 
